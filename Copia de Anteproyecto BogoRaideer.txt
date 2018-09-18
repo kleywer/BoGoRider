@@ -1,0 +1,253 @@
+﻿Anteproyecto 
+“BoGoRaider”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kleywer Herrera Campos
+Cohorte 4
+
+
+
+
+
+
+
+
+
+
+
+
+Especialización 
+Contenido para medios digitales
+UNITEC
+2018
+  
+
+Problema
+
+
+Las principales causas de accidentes en el marco del uso de la bicicleta son el abandono y la poca optimización de la ciudad por parte de las entidades institucionales para dar los elementos pertinentes, en pro de la buena y segura practica del ciclismo urbano y de aquellos que deciden tomar la bicicleta como método de transporte permanente y ocasional para desplazarse por la ciudad de Bogotá?; además de la falta de educación por parte de las autoridades, de los peatones, de los conductores de vehículos particulares y del servicio público, y hasta de los mismos usuarios de la bicicleta; a nivel de reglamentación y de precaución?. 
+
+
+Hipótesis
+
+
+Si se  ayuda a organizar los grupos en torno al cumplimiento de las normas y se mantiene la información útil, actualizada y en circulación entre los directamente afectados; y haciéndolo de una forma práctica y yendo directamente al individuo, se reducen en gran medida los efectos negativos de los que practican o son parte del ciclismo urbano en Bogotá.
+
+
+Justificación
+
+
+Mientras los números estadísticos sobre usuarios de la bicicleta en la ciudad de Bogotá van en aumento mostrando que más de 835.000 personas en la ciudad, al año 2017 usan la bicicleta como medio de transporte principal, y que así mismo los índices de la venta de implementos necesarios para la práctica van en un leve aumento y que Bogotá se constituye como una de las ciudades a nivel latinoamericano con la ciclorruta más extensa ya que actualmente dispone de más de 400 kilómetros .
+  
+
+La gráfica muestra el aumento de viajes en bicicleta durante los últimos 20 años. Recuperado de: de Despacio.org
+En la práctica se encontró sin embargo quejas recurrentes y elementos que podrían no dar una buena experiencia al usuario que decide tomar bicicleta para desplazarse dentro de la ciudad. Así pues, fallos en la estructura de las ciclorrutas, que obliga muchas veces a transitar por la vía principal; y que por tal aumenta la probabilidad de accidentes en los que se vean involucrados ciclistas urbanos vs peatones y/o vehículos particulares o públicos; sumado a la alta inseguridad en algunas zonas, a la falta de planificación en los trayectos por parte del ciclista, los eventuales fallos mecánicos a los que inevitablemente se ven expuestos, o simplemente a la falta de conocimiento de estas situaciones. Representa en sí mismo un cúmulo de eventos que ponen en riesgo constante a los ciclistas urbanos de la ciudad de Bogotá.
+
+
+Es entonces cuando en vista de alguna de las situaciones presentadas, o de las que no han sido incluidas por falta de información; el usuario debe seguir exponiéndose para dar solución inmediata a un problema en el que fundamentalmente se debe tener en cuenta que lo toma por sorpresa y no necesariamente preparado, es entonces cuando el usuario se debe encaminar en largas travesías para buscar talleres o droguerías, o se ve en la necesidad de pedir ayuda a través del teléfono o a transeúntes  para que le proporcionen algún tipo de ayuda que le genere una salida momentánea. Deseando tener una vista global por lo menos del panorama geográfico, ya que caminaría con un rumbo definido y no con un rumbo ligado en gran parte a la suerte. Se generan pues algunas de las nuevas situaciones desfavorables como la de caminar exponiéndose al robo de la bicicleta o al deterioro en los tiempos planeados para la llegada al destino, estropear más los elementos de la mecánica de la bicicleta y que una vez más se solucionaría por lo menos de forma práctica, con información pertinente y a la mano.
+
+
+En vista del problema tácito que implica la falta de información muy pertinente en estos casos, y de la necesidad de los ciclistas urbanos en Bogotá de tener un aliado que brinde información de vital importancia; Surge como idea una propuesta de tipo tecnológica (aplicación móvil o APP) que condense y administre datos referentes y pertinentes a los principales problemas con los que se puede encontrar nuestro grupo objetivo que sería fundamentalmente ciclistas urbanos en aprietos (Cabe anotar cifras como que el 70% de los bogotanos que usan bicicletas son hombres; que el grupo de más edad que utiliza la bicicleta son los jóvenes entre 15 y 24 años que son el 24% del total de biciusuarios de la ciudad, y que la gran mayoría de habitantes que usan la bicicleta lo hacen para ir a su trabajo, con un 68% del total). Dicho aplicativo tendría como eje principal un mapa descargable de la ciudad y que permita ser usado de forma Offline donde se demarque sitios y puntos estratégicos para la solución de los problemas a exponer siendo algunos de estos :
+
+
+* Droguerías 
+* Centros de salud
+* Talleres ciclisticos
+* Tiendas de repuestos
+* Edificios de la fuerza pública 
+* Refugios pensados para usuarios de bicicleta 
+
+
+Complementado con elementos, muchas veces pensados de forma general que harían de la aplicación un conjunto de componentes puestos a disposición para el usuario algunos de los cuales serían :
+ 
+* Medición cardiaco-respiratoria, 
+* Música
+* Trucos mecánicos 
+* Normatividad pertinente
+* Precauciones
+* Estado del tráfico 
+* Noticias o Blogs
+
+
+Todo esto con el fin que la aplicación sea usada principalmente en los casos fortuitos y riesgosos a la par que tiene herramientas que completan en sumatoria lo que generalmente se quiere y requiere al andar en bicicleta en la ciudad de Bogotá. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Objetivo General:
+
+
+Ofrecer al público de la ciudad de Bogotá información inmediata referente a soluciones en caso accidente con la bicicleta .
+
+
+Informar pertinentemente sobre elementos y soluciones favorables para ciclistas urbanos en la mayoría de eventos desafortunados que se presenten en tal práctica.
+
+
+Objetivos específicos
+
+
+* Identificar las necesidades en la información para ciclistas urbanos en Bogotà.
+* Enumerar los diferentes tipos de percances que se pueden presentar a la hora de andar en bicicleta.
+
+
+* Recolectar en una sola plataforma informaciòn necesaria al momento de algún percance.
+* Analizar las posibles alianzas de información para llevar a cabo el proyecto
+* Mostrar un tipo de comunicación confiable e informal para entregar efectivamente los mensajes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Metodología
+
+
+Bajo los fundamentos y los datos que la investigación nos puede arrojar hemos decidió implementar la metodología que propone Christopher Alexander para desarrollo de proyectos de diseño, ya que la misma está más enfocada hacia la determinación de los problemas a resolver teniendo muy en cuenta la población y la geografía de los mismos.
+
+
+Podemos dividir el método de Alexander en 6 pasos:
+
+
+* Definición del problema. 
+* Mediante una lista de exigencias, se estudia el comportamiento de los sistemas en el contexto. 
+* Se da un juicio para determinar si las soluciones a una de las exigencias están determinadas con las de otra. 
+* Se analiza y descompone. Se establece una jerarquía de subsistemas. 
+* Por medio de diagramas se encuentra una solución a las exigencias. 
+* Los diagramas se van desarrollando hasta lograr la síntesis formal de las exigencias.
+
+
+Contexto : Está compuesto por ubicación física, uso y métodos de fabricación. En todo problema de diseño existen dos componentes: uno formado por exigencias fuera del control del diseñador y otro por la forma que el diseñador debe adaptar a la anterior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fases del proyecto
+
+
+Fase 1. Desarrollo conceptual
+
+
+* Fundamentación teórica.
+* Recolección de datos.
+* Análisis de los datos.
+* Planteamiento aplicado a los resultados.
+
+
+Fase 2. Experimentación
+
+
+Fase 3. Evidencia de la obra
+
+
+
+
+Medio Estadístico
+
+
+Encuesta online 
+Análisis de los datos 
+Ensayos
